@@ -19,7 +19,7 @@ class TestSequenceFunctions(unittest.TestCase):
         element = random.choice(self.seq)
         self.assertTrue(element in self.seq)
         
-            def test_choice2(self):
+    def test_choice2(self):
         element = random.choice(self.seq)
         self.assertTrue(element in self.seq)
 
