@@ -1,6 +1,6 @@
 import random
 import unittest
-' this is test for push 4
+"""this is test for push"""
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
