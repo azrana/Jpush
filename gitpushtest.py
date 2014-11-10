@@ -1,7 +1,7 @@
 import random
 import unittest
 """this is test for push"""
-#this is a test for email
+#this is a test for email & git push
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
