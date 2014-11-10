@@ -1,7 +1,7 @@
 import random
 import unittest
 """this is test for push"""
-#this is user azrana1
+#this is a test for email
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
